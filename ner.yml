@@ -1,0 +1,5 @@
+name: tabi
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/vprovat/anaconda3/envs/tabi
